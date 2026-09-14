@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-I'm Bohu, Co-founder of [Databend Labs](https://github.com/datafuselabs/databend).
+I'm Bohu, founder of [Databend Labs](https://github.com/databendlabs) ⿻ [evot.ai](https://evot.ai).
 
-- 🔭 **Current Project**: [Databend](https://github.com/datafuselabs/databend) – an open-source Snowflake alternative
-- 🚀 **Features Compared to Snowflake**: 90%+ compatibility, 50%+ cost savings, powered by #Rust
-- 🌐 **Focus**: Building the next Cloud Warehouse, designed for Data + AI
-- 📫 **Connect**: [Twitter](https://twitter.com/bohutang) | [LinkedIn](https://www.linkedin.com/in/bohutang/)
+Building:
+- [Databend](https://github.com/databendlabs/databend) — agent-ready warehouse on your S3
+- [evot](https://github.com/evotai/evot) — the lightest harness for agentic work
+
+```bash
+ curl -fsSL https://evot.ai/install | sh
+```
+
+X (https://x.com/BohuTANG) · LinkedIn (https://www.linkedin.com/in/bohutang/)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
